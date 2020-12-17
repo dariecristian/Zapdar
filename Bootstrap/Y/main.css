@@ -1,0 +1,27 @@
+.navbar-nav{
+  text-align: center;
+  font-family: Roboto;
+  color: black !important;
+  font-size: 40px ;
+}
+.navbar-nav a:hover{
+background-color: black;
+color: white !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  color:black;
+}
+.col-sm-3{
+  padding-left: 0 !important; 
+  padding-right: 0 !important;
+}
+#bg{
+  background-image:url("50Euro.jpg") ;
+}
+p{
+  font: Roboto;
+  font-size: 30px;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  
+}
